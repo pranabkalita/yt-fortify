@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full bg-gray-50">
 
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body>
+<body class="h-full">
     <x-global.navbar />
 
     <div class="relative overflow-hidden bg-white">
